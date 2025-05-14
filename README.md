@@ -1,8 +1,18 @@
+<h1 align="center">Offline CVSS Calculator 🛡️ (with Optional OpenAI Integration 🤖)</h1>
+
+<p align="center">
+  <img src="https://i.imgur.com/pE2exPU.png" alt="App Screenshot" width="700"/>
+</p>
+
+<p align="center">
+  GUI-based Python tool for CVSS scoring + ChatGPT insights, built for red/blue teams, students & CTFs.
+</p>
+
 # Offline CVSS Calculator (with Optional OpenAI Integration)
 
 A GUI-based offline CVSS v3.1 calculator built in Python, designed for cybersecurity students, researchers, and red/blue teams. This tool enables real-time vulnerability scoring and optionally integrates with OpenAI's GPT-4 to generate explanations, remediations, and simulated attack scenarios based on the metrics you select.
 
-[![Screenshot](https://i.imgur.com/pE2exPU.png)](https://i.imgur.com/pE2exPU.png)
+
 
 
 
