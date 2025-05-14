@@ -2,7 +2,10 @@
 
 A GUI-based offline CVSS v3.1 calculator built in Python, designed for cybersecurity students, researchers, and red/blue teams. This tool enables real-time vulnerability scoring and optionally integrates with OpenAI's GPT-4 to generate explanations, remediations, and simulated attack scenarios based on the metrics you select.
 
-![screenshot](assets/screenshot.png)
+[![Screenshot](https://i.imgur.com/pE2exPU.png)](https://i.imgur.com/pE2exPU.png)
+
+
+
 
 ---
 
